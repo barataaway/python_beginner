@@ -1,3 +1,6 @@
+# RAFAEL ROSA
+# THIS IS JUST A TEST
+
 # clear terminal screen
 import os
 os.system('clear')
