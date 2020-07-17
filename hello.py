@@ -16,7 +16,7 @@ fav_pizza = {
 
 for a in range(4):
     # print compliment to the screen
-    print(name + " plays " + sports[a])
+    print(name + " plays " + sports[a] + " and he loves it")
 
 print("\n", sports[3])
 
